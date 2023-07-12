@@ -1,24 +1,141 @@
-# README
+<a name="readme-top"></a>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<!-- TABLE OF CONTENTS -->
 
-Things you may want to cover:
+# 📗 Table of Contents
 
-* Ruby version
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
 
-* System dependencies
+<!-- PROJECT DESCRIPTION -->
 
-* Configuration
+# 📖 hello-rails-api-backend <a name="about-project"></a>
 
-* Database creation
+> "Hello rails react" project as one app with Webpack
 
-* Database initialization
+## Built With
 
-* How to run the test suite
+![](https://img.shields.io/badge/-Ruby-red)
+![](https://img.shields.io/badge/-VSCode-blue)
+![](https://img.shields.io/badge/-Rspec-red)
 
-* Services (job queues, cache servers, search engines, etc.)
+- Visual Studio Code
+- Ruby
+- Rails
 
-* Deployment instructions
+### Key Features <a name="key-features"></a>
 
-* ...
+<!-- > Describe between 1-3 key features of the application. -->
+
+- Create a new Rails API app called 'hello-rails-back-end.
+- Make sure that your project has a Postgres database set up.
+- Create a table for storing your messages and create 5 different greetings.
+- Create an API endpoint that selects a random greeting from your table.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+<!-- > Describe how a new developer could make use of your project. -->
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+### Setup
+
+Clone this repository to your desired folder:
+
+```
+ git@github.com:mrkamin/Hello-Rails-backend.git
+
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```
+rails s
+
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Author <a name="authors"></a>
+
+<!-- > Mention all of the collaborators of this project. -->
+
+👤 **Mohammad Rafi Amin**
+
+- GitHub: [@githubhandle](https://github.com/mrkamin)
+- Twitter: [@twitterhandle](https://twitter.com/Mohamma63974237)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohammad-rafi-amin-63b4319b/)
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+<!-- > Describe 1 - 3 features you will add to the project. -->
+
+- configur test rspec 
+- connect it with hello-react-frontend project
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/mrkamin/Hello-Rails-backend/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project, Please give it a ⭐️⭐️
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+Thanks (@microverse (https://www.microverse.org/))
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](https://github.com/mrkamin/Hello-Rails-backend/blob/main/LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
