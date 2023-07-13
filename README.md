@@ -30,6 +30,12 @@
 
 > "Hello rails react" project as one app with Webpack
 
+<summary>frontend PR Link</summary>
+  <ul>
+    <li><a href="https://github.com/mrkamin/hello-react-front-end/pull/1">React as Frontend - PR Link</a></li>
+  </ul>
+</details>
+
 ## Built With
 
 ![](https://img.shields.io/badge/-Ruby-red)
